@@ -24,6 +24,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * ping++
 * https://letsencrypt.org/  Free SSL certificate
 * phabricator  Code project management tool
+* More: https://github.com/ripienaar/free-for-dev
 
 # JAVA
 
@@ -214,9 +215,13 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * slf4j
 * logstash
+* loggly.com
+* rollbar.com
 
 # Issue Report
 
+* sentry.io
+* rollbar.com
 
 # Weixin
 
