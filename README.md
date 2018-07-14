@@ -9,7 +9,6 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 # Common
 
-* Firebase
 * Quartz
 * http://swagger.io/
 * Fiddler
@@ -42,6 +41,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Ebean Java SQL ORM
 * https://github.com/jetbrains/Exposed   kotlin SQL ORM
 * https://ktor.io    kotlin web framework
+* More: https://github.com/akullpp/awesome-java
 
 # Python
 
@@ -58,7 +58,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * numpy
 * requests
 * Pyspider
-* Pulsar Python actor model lib
+* Pulsar Concurrent framework for Python.
 * https://github.com/Activiti/Activiti
 * http://djangosuit.com/
 * More: https://github.com/vinta/awesome-python
@@ -80,18 +80,15 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Flow
 * phantomjs
 * eslint
-* http://blueprintjs.com/   React UI toolkit
 * https://weui.io/
-* https://github.com/ElemeFE/element
 * https://npm.taobao.org/
 * https://github.com/juliangarnier/anime
 * http://esprima.org/
-* https://github.com/nadbm/react-datasheet
 * pdf.js
 * https://github.com/turbolinks/turbolinks
 * socket.io
 * assemblyscript TypeScript to WebAssembly compiler
-* https://github.com/atlassian/react-beautiful-dnd    drag and drop lib of react.js
+* More: https://github.com/sorrycc/awesome-javascript
 
 # Shell
 
@@ -109,6 +106,9 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # React
 * https://github.com/facebookincubator/create-react-app
 * Redux
+* http://blueprintjs.com/   React UI toolkit
+* https://github.com/nadbm/react-datasheet
+* https://github.com/atlassian/react-beautiful-dnd    drag and drop lib of react.js
 * More: https://github.com/enaqx/awesome-react
 
 # Angular
@@ -137,6 +137,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 # .Net
 
+* https://github.com/NancyFx/Nancy
 * More: https://github.com/thangchung/awesome-dotnet-core
 * More: https://github.com/quozd/awesome-dotnet
 
@@ -145,6 +146,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Rails
 * whenever
 * https://github.com/aasm/aasm
+* More: https://github.com/markets/awesome-ruby
 
 # Golang
 
@@ -174,6 +176,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * PostgreSQL
 * Redis
 * Vertica
+* More: https://github.com/numetriclabz/awesome-db
 
 # Serverless
 
@@ -286,6 +289,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * docker-discover
 * docker-register
 * docker-compose
+* https://github.com/veggiemonk/awesome-docker
 
 # VPS
 
@@ -299,14 +303,15 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * aliyun
 * qcloud
 
-* PaaS
+# PaaS
 
+* Firebase
 * Google Cloud Platform
 * Heroku
 * AWS
 * aliyun
 * Azure
-
+* More: https://github.com/ripienaar/free-for-dev
 
 # Test
 
