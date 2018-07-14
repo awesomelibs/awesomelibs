@@ -177,6 +177,9 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * PostgreSQL
 * Redis
 * Vertica
+* Xodus
+* LiteDB
+* tiedot NoSQL database powered by Golang
 * More: https://github.com/numetriclabz/awesome-db
 
 # Serverless
