@@ -23,8 +23,6 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * postman
 * haproxy
 * ping++
-* pusher.com   
-* leancloud
 * https://letsencrypt.org/  Free SSL certificate
 * phabricator  Code project management tool
 
@@ -60,6 +58,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * numpy
 * requests
 * Pyspider
+* Pulsar Python actor model lib
 * https://github.com/Activiti/Activiti
 * http://djangosuit.com/
 * More: https://github.com/vinta/awesome-python
@@ -80,12 +79,11 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * axios
 * Flow
 * phantomjs
+* eslint
 * http://blueprintjs.com/   React UI toolkit
 * https://weui.io/
-* election
 * https://github.com/ElemeFE/element
 * https://npm.taobao.org/
-* https://github.com/facebookincubator/create-react-app
 * https://github.com/juliangarnier/anime
 * http://esprima.org/
 * https://github.com/nadbm/react-datasheet
@@ -108,6 +106,11 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * VuePress  Static website generator
 * More: https://github.com/mpvue/awesome-mpvue
 
+# React
+* https://github.com/facebookincubator/create-react-app
+* Redux
+* More: https://github.com/enaqx/awesome-react
+
 # Angular
 
 * https://material.angular.io/
@@ -119,13 +122,23 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Boost
 * fc
 * valgrind
+* More: https://github.com/fffaraz/awesome-cpp
+* More: https://github.com/rigtorp/awesome-modern-cpp
 
 # FP
 
 * Clojure
+* Ocaml
 * BuckleScript
+* ReasonML
+* Haskell
+* Scala
+* F#
 
 # .Net
+
+* More: https://github.com/thangchung/awesome-dotnet-core
+* More: https://github.com/quozd/awesome-dotnet
 
 # Ruby
 
@@ -145,6 +158,9 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * siege
 * swagger
+* Electron
+* ace js editor plugin
+* codemirror js editor plugin
 * https://github.com/google/material-design-lite
 * http://locust.io/    load testing tool
 * http://open-falcon.org/     system monitor
@@ -158,6 +174,13 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * PostgreSQL
 * Redis
 * Vertica
+
+# Serverless
+
+* aws lambda
+* aliyun functions
+* google cloud functions
+* More: https://github.com/pmuens/awesome-serverless
 
 # Message Queue
 
@@ -173,14 +196,24 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 # Realtime
 
+* pusher.com   
+* leancloud
+
 # Search
 
 * ElasticSearch
+* Solr
+* aliyun
+* qcloud
+* google cloud platform
 
 # Log
 
 * slf4j
 * logstash
+
+# Issue Report
+
 
 # Weixin
 
@@ -199,6 +232,9 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://kudu.apache.org/
 * Mobile
 * https://github.com/jiahaog/nativefier   convert webapps to native-like apps
+* Hadoop
+* Spark
+* Storm
 
 # Language
 
@@ -262,6 +298,15 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * bandwagon
 * aliyun
 * qcloud
+
+* PaaS
+
+* Google Cloud Platform
+* Heroku
+* AWS
+* aliyun
+* Azure
+
 
 # Test
 
