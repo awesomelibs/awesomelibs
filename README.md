@@ -4,6 +4,8 @@ Awesome libs for various development languages and development tools.
 
 A few recommended options given. You can also see more options.
 
+This website source: [https://github.com/awesomelibs/awesomelibs](https://github.com/awesomelibs/awesomelibs)
+
 
 # Common
 
@@ -16,14 +18,11 @@ A few recommended options given. You can also see more options.
 * http://redisdesktop.com/
 * shadowsocks
 * kcptun
-* https://www.mockplus.cn/
 * seafile
 * https://getstream.io/
 * postman
-* https://www.processon.com/ UML graph tool
 * haproxy
 * ping++
-* https://ngrok.com/   Forwarding external network requests to the intranet
 * pusher.com   
 * leancloud
 * https://letsencrypt.org/  Free SSL certificate
@@ -63,6 +62,7 @@ A few recommended options given. You can also see more options.
 * Pyspider
 * https://github.com/Activiti/Activiti
 * http://djangosuit.com/
+* More: https://github.com/vinta/awesome-python
 
 # JavaScript
 
@@ -94,6 +94,12 @@ A few recommended options given. You can also see more options.
 * socket.io
 * assemblyscript TypeScript to WebAssembly compiler
 * https://github.com/atlassian/react-beautiful-dnd    drag and drop lib of react.js
+
+# Shell
+
+* zshell
+* oh-my-zsh
+* More: https://github.com/awesome-lists/awesome-bash
 
 # Vue
 
@@ -185,13 +191,13 @@ A few recommended options given. You can also see more options.
 * React Native
 * Codova
 * weex
+* weex more: https://github.com/joggerplus/awesome-weex
+* More: https://github.com/wasabeef/awesome-android-ui
 
 # Big Data
 
 * https://kudu.apache.org/
-
 * Mobile
-
 * https://github.com/jiahaog/nativefier   convert webapps to native-like apps
 
 # Language
@@ -233,6 +239,10 @@ A few recommended options given. You can also see more options.
 * BitShares
 * Cardano
 
+# Architect
+
+* More: https://github.com/xingshaocheng/architect-awesome
+
 # Docker
 
 * docker
@@ -247,6 +257,8 @@ A few recommended options given. You can also see more options.
 * vultr
 * digitalocean
 * aws
+* azure
+* google cloud
 * bandwagon
 * aliyun
 * qcloud
@@ -265,4 +277,6 @@ A few recommended options given. You can also see more options.
 * Robomongo
 * Sequel Pro
 * Beyound Compare
-
+* https://ngrok.com/   Forwarding external network requests to the intranet
+* https://www.mockplus.cn/
+* https://www.processon.com/ UML graph tool
