@@ -167,6 +167,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://github.com/google/material-design-lite
 * http://locust.io/    load testing tool
 * http://open-falcon.org/     system monitor
+* https://github.com/NervJS/taro Use react to write  Wechat app、H5、React Native app once
 
 # Database
 * MySQL
@@ -229,6 +230,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # Weixin
 
 * http://xiumi.us/
+* https://github.com/NervJS/taro Use react to write  Wechat app、H5、React Native app once
 
 # Android
 
