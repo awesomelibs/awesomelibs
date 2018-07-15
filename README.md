@@ -101,6 +101,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * vue-cli
 * elementui
+* https://github.com/PanJiaChen/vue-element-admin
 * VuePress  Static website generator
 * More: https://github.com/mpvue/awesome-mpvue
 
