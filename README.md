@@ -317,6 +317,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 # PaaS
 
+* dokku
 * Firebase
 * Google Cloud Platform
 * Heroku
