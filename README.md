@@ -148,6 +148,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * Rails
 * whenever
+* https://github.com/rails/webpacker
 * https://github.com/aasm/aasm
 * More: https://github.com/markets/awesome-ruby
 
