@@ -103,6 +103,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * elementui
 * https://github.com/PanJiaChen/vue-element-admin
 * VuePress  Static website generator
+* https://rsuitejs.com  React Suite
 * More: https://github.com/mpvue/awesome-mpvue
 
 # React
