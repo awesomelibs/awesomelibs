@@ -59,6 +59,8 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * numpy
 * requests
 * Pyspider
+* jupyter  Ipython notebook
+* anaconda
 * Pulsar Concurrent framework for Python.
 * https://github.com/Activiti/Activiti
 * http://djangosuit.com/
