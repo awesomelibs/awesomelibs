@@ -133,6 +133,8 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Boost
 * fc
 * valgrind
+* vcpkg  package manager for c++
+* cmake
 * More: https://github.com/fffaraz/awesome-cpp
 * More: https://github.com/rigtorp/awesome-modern-cpp
 
