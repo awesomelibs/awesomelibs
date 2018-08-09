@@ -194,6 +194,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Vertica
 * Xodus
 * LiteDB
+* RethinkDB
 * tiedot NoSQL database powered by Golang
 * More: https://github.com/numetriclabz/awesome-db
 
