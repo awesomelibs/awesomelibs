@@ -357,6 +357,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * VuePress  Static website generator
 * Robomongo
 * Sequel Pro
+* DBeaver
 * Beyound Compare
 * https://ngrok.com/   Forwarding external network requests to the intranet
 * https://www.mockplus.cn/
