@@ -349,6 +349,13 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * http://locust.io/
 
+# Document Tools
+
+* confluence
+* Sphinx
+* gitbook
+* readthedocs
+
 # Tools
 
 * https://blogs.office.com/2013/04/10/office-web-viewer-view-office-documents-in-a-browser/    Online web preview office document
