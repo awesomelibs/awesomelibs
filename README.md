@@ -188,6 +188,8 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * MongoDB
 * leveldb
 * Sqlite
+* CouchDB
+* Couchbase
 * Casandra
 * PostgreSQL
 * Redis
