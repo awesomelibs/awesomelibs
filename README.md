@@ -154,6 +154,10 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * More: https://github.com/thangchung/awesome-dotnet-core
 * More: https://github.com/quozd/awesome-dotnet
 
+# F#
+
+* http://ionide.io/ F# ide extension for vscode
+
 # Ruby
 
 * Rails
