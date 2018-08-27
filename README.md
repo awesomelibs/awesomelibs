@@ -41,6 +41,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * spring-cloud
 * Ebean Java SQL ORM
 * https://github.com/jetbrains/Exposed   kotlin SQL ORM
+* https://github.com/TommyLemon/APIJSON
 * https://ktor.io    kotlin web framework
 * More: https://github.com/akullpp/awesome-java
 
