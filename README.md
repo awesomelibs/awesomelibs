@@ -346,6 +346,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # PaaS
 
 * dokku
+* https://github.com/minio/minio open source OSS implementation with S3 interface
 * Firebase
 * Google Cloud Platform
 * Heroku
