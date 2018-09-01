@@ -137,6 +137,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * valgrind
 * vcpkg  package manager for c++
 * cmake
+* https://github.com/ruslo/polly CMake toolchain files and scripts for cross-platform build and CI testing
 * More: https://github.com/fffaraz/awesome-cpp
 * More: https://github.com/rigtorp/awesome-modern-cpp
 
