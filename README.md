@@ -76,6 +76,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Lodash
 * backbone.js
 * AngularJS
+* https://github.com/eggjs/egg/
 * TypeScript
 * yeoman
 * pm2
