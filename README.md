@@ -116,6 +116,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://github.com/PanJiaChen/vue-element-admin
 * VuePress  Static website generator
 * https://rsuitejs.com  React Suite
+* https://vuetifyjs.com
 * More: https://github.com/mpvue/awesome-mpvue
 
 # React
