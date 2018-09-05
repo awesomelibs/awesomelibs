@@ -141,6 +141,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * vcpkg  package manager for c++
 * cmake
 * https://github.com/ruslo/polly CMake toolchain files and scripts for cross-platform build and CI testing
+* https://github.com/pocoproject/poco Cross-platform C++ libraries with a network/internet focus
 * More: https://github.com/fffaraz/awesome-cpp
 * More: https://github.com/rigtorp/awesome-modern-cpp
 
