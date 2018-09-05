@@ -56,6 +56,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * sqlalchemy
 * gunicorn
 * supervisor
+* Celery
 * Django
 * Django-restful-framework
 * https://github.com/twitter/util
