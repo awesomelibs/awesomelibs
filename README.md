@@ -263,6 +263,10 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * sentry.io
 * rollbar.com
 
+# BI
+
+* metabase
+
 # Crypto
 
 * OpenSSL
