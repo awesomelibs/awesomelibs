@@ -213,6 +213,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * LiteDB
 * RethinkDB
 * tiedot NoSQL database powered by Golang
+* cobar-server
 * More: https://github.com/numetriclabz/awesome-db
 
 # Serverless
