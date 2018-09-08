@@ -78,6 +78,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * backbone.js
 * AngularJS
 * https://github.com/eggjs/egg/
+* https://github.com/nestjs/nest
 * TypeScript
 * yeoman
 * pm2
