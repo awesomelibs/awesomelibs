@@ -66,6 +66,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * jupyter  Ipython notebook
 * anaconda
 * Pulsar Concurrent framework for Python.
+* https://github.com/facebookincubator/python-nubia  A command-line and interactive shell framework.
 * https://github.com/Activiti/Activiti
 * http://djangosuit.com/
 * More: https://github.com/vinta/awesome-python
