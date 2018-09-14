@@ -49,6 +49,9 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 # Python
 
+* virtualenv
+* pipenv
+* ipython
 * tornado
 * Flask
 * flask-admin
