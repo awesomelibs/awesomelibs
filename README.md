@@ -163,6 +163,12 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Scala
 * F#
 
+# Clojure
+
+* https://github.com/boot-clj/boot
+* Leiningen
+* core.logic
+
 # .Net
 
 * https://github.com/NancyFx/Nancy
