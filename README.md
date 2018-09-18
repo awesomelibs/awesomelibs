@@ -168,6 +168,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://github.com/boot-clj/boot
 * Leiningen
 * core.logic
+* More: https://github.com/razum2um/awesome-clojure
 
 # .Net
 
