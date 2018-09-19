@@ -404,6 +404,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * gitbook
 * readthedocs
 * mkdocs
+* https://docusaurus.io
 * https://squidfunk.github.io/mkdocs-material/
 
 # Tools
