@@ -340,6 +340,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * NodeBB
 * Discourse
+* https://github.com/b3log/symphony  java open source forum
 * Gitlab
 * Gogs
 * gitbucket
