@@ -41,6 +41,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * autovalue  https://github.com/google/auto
 * dubbo
 * spring-cloud
+* https://github.com/spring-cloud/spring-cloud-function
 * Ebean Java SQL ORM
 * https://github.com/jetbrains/Exposed   kotlin SQL ORM
 * https://github.com/TommyLemon/APIJSON
@@ -381,7 +382,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * aliyun
 * qcloud
 
-# PaaS
+# Cloud
 
 * dokku
 * https://github.com/minio/minio open source OSS implementation with S3 interface
