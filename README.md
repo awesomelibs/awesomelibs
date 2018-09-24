@@ -65,10 +65,12 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Django-restful-framework
 * https://github.com/twitter/util
 * numpy
+* https://github.com/dask/dask Parallel computing with task scheduling
 * requests
 * Pyspider
 * jupyter  Ipython notebook
 * anaconda
+* https://github.com/numba/llvmlite
 * Pulsar Concurrent framework for Python.
 * https://github.com/facebookincubator/python-nubia  A command-line and interactive shell framework.
 * https://github.com/Activiti/Activiti
