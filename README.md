@@ -143,6 +143,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://material.angular.io/
 * https://ng-bootstrap.github.io/#/home
 * https://github.com/akveo/ng2-admin
+* https://github.com/flatlogic/angular-material-dashboard
 
 # C++
 
