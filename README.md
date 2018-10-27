@@ -63,6 +63,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Celery
 * Django
 * Django-restful-framework
+* https://itchat.readthedocs.io/zh/latest/
 * https://github.com/twitter/util
 * numpy
 * https://github.com/dask/dask Parallel computing with task scheduling
