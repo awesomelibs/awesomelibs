@@ -352,6 +352,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * gitbucket
 * https://www.dokuwiki.org
 * forum https://github.com/flarum/flarum
+* https://github.com/JpressProjects/jpress
 
 # stock
 
@@ -407,7 +408,6 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * http://locust.io/
 
 # Document Tools
-
 * confluence
 * Sphinx
 * gitbook
