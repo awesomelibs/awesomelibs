@@ -338,6 +338,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * semantic-ui
 * bootstrap
 * amaze ui
+* https://github.com/akveo/eva-icons
 * https://getuikit.com
 * https://jetbrains.github.io/ring-ui
 * https://purecss.io/start/
