@@ -311,6 +311,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * React Native
 * Codova
+* https://flutter.io
 * weex
 * weex more: https://github.com/joggerplus/awesome-weex
 * https://flutter.io/
