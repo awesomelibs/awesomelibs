@@ -314,7 +314,6 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://flutter.io
 * weex
 * weex more: https://github.com/joggerplus/awesome-weex
-* https://flutter.io/
 * More: https://github.com/wasabeef/awesome-android-ui
 
 # Big Data
