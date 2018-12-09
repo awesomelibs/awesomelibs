@@ -188,6 +188,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # F#
 
 * http://ionide.io/ F# ide extension for vscode
+* https://github.com/fsprojects/FSharpPlus
 
 # Ruby
 
