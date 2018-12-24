@@ -127,12 +127,15 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # Vue
 
 * vue-cli
+* vue-router
+* vue-i18n
 * elementui
 * https://github.com/PanJiaChen/vue-element-admin
 * VuePress  Static website generator
 * https://nuxtjs.org/
 * https://rsuitejs.com  React Suite
 * https://vuetifyjs.com
+* https://github.com/storybooks/storybook
 * More: https://github.com/mpvue/awesome-mpvue
 
 # React
