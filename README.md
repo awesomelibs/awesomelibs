@@ -68,6 +68,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * numpy
 * https://github.com/dask/dask Parallel computing with task scheduling
 * requests
+* pytest
 * Pyspider
 * jupyter  Ipython notebook
 * anaconda
