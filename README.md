@@ -109,6 +109,10 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * assemblyscript TypeScript to WebAssembly compiler
 * More: https://github.com/sorrycc/awesome-javascript
 
+# Golang
+
+* https://github.com/mholt/json-to-go
+
 # WebSocket
 
 * npm install -g wscat
