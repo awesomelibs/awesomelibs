@@ -61,6 +61,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * gunicorn
 * supervisor
 * Celery
+* https://github.com/ray-project/ray
 * Django
 * Django-restful-framework
 * https://itchat.readthedocs.io/zh/latest/
