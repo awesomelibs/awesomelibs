@@ -192,6 +192,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # .Net
 
 * https://github.com/NancyFx/Nancy
+* https://github.com/dotnet/try
 * More: https://github.com/thangchung/awesome-dotnet-core
 * More: https://github.com/quozd/awesome-dotnet
 
