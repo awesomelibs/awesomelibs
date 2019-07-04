@@ -30,6 +30,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # JAVA
 
 * unirest
+* lombok
 * JOOQ
 * Spring Boot
 * https://start.spring.io/ Spring Initializer
