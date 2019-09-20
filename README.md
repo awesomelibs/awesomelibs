@@ -267,6 +267,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * zeroMQ
 * beanstalkd
 * Kafka
+* Pulsar
 
 # Serialize
 
