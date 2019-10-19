@@ -259,6 +259,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * aws lambda
 * aliyun functions
 * google cloud functions
+* OpenWhisk
 * More: https://github.com/pmuens/awesome-serverless
 
 # Message Queue
