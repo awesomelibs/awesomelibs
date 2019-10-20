@@ -195,6 +195,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * https://github.com/NancyFx/Nancy
 * https://github.com/dotnet/try
+* Hangfire
 * More: https://github.com/thangchung/awesome-dotnet-core
 * More: https://github.com/quozd/awesome-dotnet
 
