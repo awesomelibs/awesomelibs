@@ -429,6 +429,13 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Azure
 * More: https://github.com/ripienaar/free-for-dev
 
+# Spring Cloud
+* Spring Cloud Alibaba
+
+# Rate Limit
+* Sentinel
+* Hystrix
+
 # Test
 
 * http://locust.io/
