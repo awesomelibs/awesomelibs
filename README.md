@@ -177,7 +177,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 # FP
 
 * Clojure
-* Ocaml
+* OCaml
 * BuckleScript
 * ReasonML
 * Haskell
@@ -300,11 +300,13 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * logstash
 * loggly.com
 * rollbar.com
+* filebeat
 
 # Issue Report
 
 * sentry.io
 * rollbar.com
+* https://github.com/getsentry/sentry
 
 # CDN
 
@@ -438,11 +440,6 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 # IoT
 * COAP
-
-# Log
-
-* Logstash
-* filebeat
 
 # Test
 
