@@ -38,6 +38,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * morphia	Mongodb orm
 * jacoco Java Code Coverage Library
 * MyBatis Spring Boot Starter
+* mybatis plus
 * http://webmagic.io/
 * autovalue  https://github.com/google/auto
 * dubbo
