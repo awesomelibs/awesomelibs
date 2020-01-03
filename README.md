@@ -118,6 +118,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://github.com/mattn/goreman go fork of foreman
 * https://github.com/micro/go-micro
 * https://github.com/kataras/iris go web framework
+* https://github.com/Sirupsen/logrus golang logger
 
 # WebSocket
 
