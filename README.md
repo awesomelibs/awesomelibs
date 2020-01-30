@@ -264,6 +264,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * aliyun functions
 * google cloud functions
 * OpenWhisk
+* cloudflare workers
 * More: https://github.com/pmuens/awesome-serverless
 
 # Message Queue
