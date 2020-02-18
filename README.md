@@ -342,6 +342,10 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * http://xiumi.us/
 * https://github.com/NervJS/taro Use react to write  Wechat app、H5、React Native app once
 
+# Lock
+* zookeeper + curator
+* redis set key value NX EX seconds
+
 # Android
 
 * React Native
