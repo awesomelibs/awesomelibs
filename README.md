@@ -48,6 +48,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * https://github.com/jetbrains/Exposed   kotlin SQL ORM
 * https://github.com/TommyLemon/APIJSON
 * https://ktor.io    kotlin web framework
+* https://github.com/ingokegel/jclasslib   java bytecode viewer
 * More: https://github.com/akullpp/awesome-java
 
 # Python
