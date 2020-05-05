@@ -17,6 +17,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * http://redisdesktop.com/
 * shadowsocks
 * kcptun
+* proxychains
 * seafile
 * https://getstream.io/
 * postman
