@@ -471,6 +471,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * https://github.com/eventuate-tram/eventuate-tram-sagas
 * https://microservices.io/patterns/data/saga.html
+* https://github.com/apache/servicecomb-pack
 
 # IoT
 * COAP
