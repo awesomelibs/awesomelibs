@@ -467,11 +467,12 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 
 * https://github.com/bilibili/kratos
 
-# Sagas(XA)
+# Sagas
 
 * https://github.com/eventuate-tram/eventuate-tram-sagas
 * https://microservices.io/patterns/data/saga.html
 * https://github.com/apache/servicecomb-pack
+* https://github.com/seata/seata
 
 # IoT
 * COAP
