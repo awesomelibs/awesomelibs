@@ -451,6 +451,7 @@ This website source: [https://github.com/awesomelibs/awesomelibs](https://github
 * Firebase
 * Google Cloud Platform
 * Heroku
+* netlify
 * AWS
 * aliyun
 * Azure
